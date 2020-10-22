@@ -9,11 +9,11 @@ void main() {
           title: Center(
             child: Text('I Am Rich'),
           ),
-          backgroundColor: Colors.blueGrey[900],
+          backgroundColor: Colors.pink,
         ),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.blue,
         body: Center(
-          child: Image(image: AssetImage('images/diamond.png')),
+          child: Image(image: AssetImage('images/diamond1.png')),
         ),
       ),
     ),
